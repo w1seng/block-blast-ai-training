@@ -21,6 +21,7 @@ ai_trainer.py - Trains the AI using a population-based (evolutionary) approach a
 
 best_weights.json - Stores the best-performing AI weights found during training.
 
+All comments in the files were written using AI for better understanding.
 
 # How to use:
 
