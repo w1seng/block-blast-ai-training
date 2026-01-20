@@ -1,0 +1,47 @@
+{
+  "1": {
+    "Moves": 1820,
+    "Score": 130373,
+    "Max_Combo": 60
+  },
+  "2": {
+    "Moves": 863,
+    "Score": 70669,
+    "Max_Combo": 68
+  },
+  "3": {
+    "Moves": 197,
+    "Score": 11294,
+    "Max_Combo": 48
+  },
+  "4": {
+    "Moves": 1766,
+    "Score": 183269,
+    "Max_Combo": 122
+  },
+  "5": {
+    "Moves": 971,
+    "Score": 102878,
+    "Max_Combo": 132
+  },
+  "6": {
+    "Moves": 584,
+    "Score": 46988,
+    "Max_Combo": 64
+  },
+  "7": {
+    "Moves": 227,
+    "Score": 10594,
+    "Max_Combo": 42
+  },
+  "8": {
+    "Moves": 389,
+    "Score": 58253,
+    "Max_Combo": 100
+  },
+  "9": {
+    "Moves": 1655,
+    "Score": 179110,
+    "Max_Combo": 140
+  }
+}

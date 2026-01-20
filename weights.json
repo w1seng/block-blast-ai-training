@@ -1,0 +1,16 @@
+{
+  "holes": -3.035384171419512,
+  "max_height": -5.226353083060909,
+  "avg_height": -0.3572590331955441,
+  "filled": -0.4793838146068702,
+  "edge_penalty": -2.5060422225143633,
+  "cluster_score": 0,
+  "row_almost_full": 5,
+  "col_almost_full": 7.688438796845346,
+  "empty_rows": 1.1003305331531097,
+  "combo_preservation": 40.72919099140873,
+  "piece_fit": 20,
+  "diversity": 2.2737181781559714,
+  "cleared_lines": 167.99311140966927,
+  "immediate_gain": 2.446550050524116
+}
