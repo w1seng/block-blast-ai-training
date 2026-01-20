@@ -1,7 +1,8 @@
 # block-blast-ai-training
 Block blast game + ai that training to play it
 
-Files:
+# Files:
+
 pieces.py - Describes all game pieces using coordinate-based shapes.
 
 game.py - Contains the full game logic (board state, placement rules, scoring, combos, game over conditions).
