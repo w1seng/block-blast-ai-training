@@ -25,4 +25,4 @@ All comments in the files were written using AI for better understanding.
 
 # How to use:
 
-Run main.py using python 3.12 because of pygame, thaт in separate terminal run ai.py and write command on.
+Run main.py using python 3.12 because of pygame, than in separate terminal run ai.py and write command on.
